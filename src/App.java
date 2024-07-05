@@ -4,5 +4,10 @@ public class App {
         System.out.println("My Name is Bhashana Sankalpa");
         System.out.println("My Name is Bhashana Sankalpa");
         System.out.println("Nisal");
+        System.out.println("Chgange");
+        System.out.println("My Name is Bhashana Sankalpa");
+        System.out.println("Nisal");
+        System.out.println("My Name is Bhashana Sankalpa");
+        System.out.println("J");
     }
 }
